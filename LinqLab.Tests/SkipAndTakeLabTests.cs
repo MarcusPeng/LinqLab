@@ -7,6 +7,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace LinqLab.Tests
 {
+    [TestClass()]
     public class SkipAndTakeLabTests
     {
         private SkipAndTakeLab _skipAndTakeLab;

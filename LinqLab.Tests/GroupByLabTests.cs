@@ -6,6 +6,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace LinqLab.Tests
 {
+    [TestClass()]
     public class GroupByLabTests
     {
         private GroupByLab _groupByLab;

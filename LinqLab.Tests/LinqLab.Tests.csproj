@@ -61,6 +61,7 @@
   <ItemGroup>
     <Compile Include="FirstAndSingleLabTests.cs" />
     <Compile Include="GroupByLabTests.cs" />
+    <Compile Include="OrderByLabTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SkipAndTakeLabTests.cs" />
     <Compile Include="WhereLabTests.cs" />
